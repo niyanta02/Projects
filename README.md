@@ -18,6 +18,10 @@ is designed to be accessible to developers and data scientists of all skill leve
 
 
 
+
+
+
+
 Project Title: Cat vs dog Prediction
 
 The Cat vs Dog Prediction project is aimed at developing a deep learning model that can classify images of cats and dogs with high accuracy, using Convolutional Neural Networks (CNN). The project involves training a CNN model on a large dataset of cat and dog images, and testing the model on a separate validation set to evaluate its performance.
